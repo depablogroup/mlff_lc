@@ -1,0 +1,6 @@
+root: ["../results/enhanced_large"]
+dataset_file_name: ["../../data_prep/data/enhanced/steered.extxyz"]
+r_max: [4.0,]
+learning_rate: [0.002, 0.001, 0.0005]
+n_train: [6300]
+n_val: [700]

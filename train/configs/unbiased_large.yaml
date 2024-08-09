@@ -1,0 +1,5 @@
+root: ["../results/unbiased_large"]
+dataset_file_name: ["../../data_prep/data/unbiased/unbiased.extxyz"]
+r_max: [5.0]
+n_train: [6300]
+n_val: [700]
